@@ -1,0 +1,45 @@
+.Converter h1{
+    color: rgb(173, 233, 165);
+    text-shadow:5px 10px 30px rgb(0, 255, 21) ;
+    margin-left: 580px;
+}
+.Converterbox{
+    width: 100%;
+    height: 500px;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #161515;
+    border: 1px solid wheat;
+}
+.Converter {
+    width: 400px;
+    height: 250px;
+    border: 2px solid rgb(132, 146, 132) ;
+    background-color: rgb(46, 42, 45);
+    box-shadow: 2px 2px 10px rgb(0, 255, 21) ;
+    text-align: center;
+    padding: 50px;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.Converter select,.Converter input{
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.Converter {
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid rgb(126, 136, 125);
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgb(0, 255, 13) ;
+}
+.Converter button{
+    padding: 5px;
+    background-color: rgb(12, 255, 77);
+    box-shadow: 2px 2px 5px rgb(183, 189, 183) ;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
